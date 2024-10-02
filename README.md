@@ -1,4 +1,10 @@
 # pizza.shop
+![pizza-shop1](./src/assets/pizza-shop1.png)
+![pizza-shop2](./src/assets/pizza-shop2.png)
+![pizza-shop3](./src/assets/pizza-shop3.png)
+![pizza-shop4](./src/assets/pizza-shop4.png)
+![pizza-shop5](./src/assets/pizza-shop5.png)
+
 pizza.shop: shadcn/ui,eslint,tailwind,prettier,plugin simple-import-sort,
 react-router-dom,sonner,recharts,bun,axios,docker,zod,react-query,date-fns
 dar o bun dev no terminal do pizzashop-web-api,vitest(testes unitarios),testing library(testes react)=testar componentes na DOM,jest-DOM(auxilia nos testes unitarios,APIs para trabalhar direto com elementos HTML),happy-dom(simula um navegador para os testes),msw(mock de api back-end),PlayWright(teste end-to-end): pnpm playwright test --ui.
